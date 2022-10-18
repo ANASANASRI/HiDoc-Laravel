@@ -1,0 +1,31 @@
+    .button {
+        background-color: #4D77FF;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 12px;
+    }
+
+body{
+    background-color: #EBF3FA;
+}
+
+    #navbar{
+        margin: 20px;
+        border: solid #4D77FF;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding-left: 15%;
+        padding-right: 15%;
+    }
+
+    #nlink{
+        margin-right: 9px;
+    }
