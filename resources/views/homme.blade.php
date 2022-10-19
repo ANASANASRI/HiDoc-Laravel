@@ -13,8 +13,8 @@
 
     <div >
 
-            <h1 class="text-xl font-medium text-gray-900 dark:text-white">Welcome Back</h1>
-            Enter your email and password to sign in
+            <h1 class="text-xl font-medium text-gray-900 dark:text-white">Welcome Back homme</h1>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
     </div>
 
