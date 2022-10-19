@@ -13,7 +13,7 @@
 <body>
 <nav >
     <div id="navbar" class="shadow-xl">
-        <img src="" alt="HiDoc">
+        <h1>Hi<span style="color: blue">Doc</span></h1>
         <div>
         <a href="./" id="nlink">homme</a>    
         <a href="./profile"  id="nlink">Profile</a>

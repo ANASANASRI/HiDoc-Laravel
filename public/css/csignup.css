@@ -1,0 +1,16 @@
+.upcenter{
+    text-align: center;
+    padding-bottom: 3px;
+    flex-wrap: wrap;
+    font-size: small;
+}
+
+.upfront{
+    font-size: x-large;
+}
+
+.containerup{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center; background-image: url('.\asset\images\bgsignup.png');
+}
